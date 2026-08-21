@@ -7,8 +7,12 @@ const Button = (props) => {
   )
 }
 
-Button.defaultProps = {
-    name : "Default"
-}
+// Button.defaultProps = {
+//     name : "Default"
+// }
+
+// Button.propTypes = {
+//     name: PropTypes.string.easyRequired
+// }
 
 export default Button

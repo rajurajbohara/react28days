@@ -15,7 +15,7 @@ function About(){
     // const secondItem = useState[1]
     const [number,setNumber] = useState(0)
 
-    const increaseCount =()=>{
+    const increaseCount =()=>{{
         setNumber(number + 1)
     }
 
